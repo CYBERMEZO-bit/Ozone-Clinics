@@ -43,44 +43,32 @@
                 
                 .whatsapp-button {
 
-
                   display: inline-block;
-                  
-                  
-                  padding: 10px 20px;
-                  
-                  
+                
+                  padding: 5px 10px; 
+                
                   background-color: #25D366;
-                  
-                  
+                
                   color: white;
-                  
-                  
+                
                   text-align: center;
-                  
-                  
+                
                   text-decoration: none;
-                  
-                  
+                
                   border-radius: 5px;
-                  
-                  
-                  font-size: 16px;
-                  
-                  
+                
+                  font-size: 12px;
+                
                   position: fixed;
-                  
-                  
+                
                   bottom: 80px;
-                  
-                  
+                
                   left: 50%;
-                  
-                  
+                
                   transform: translateX(-50%);
-                  
-                  
-                  cursor: pointer; }
+                
+                  cursor: pointer;
+                
                 
                   .whatsapp-button:hover {
 
