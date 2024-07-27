@@ -40,5 +40,57 @@
                 padding: 0;
                 cursor: pointer; }
        
+                
+                .whatsapp-button {
+
+
+                  display: inline-block;
+                  
+                  
+                  padding: 10px 20px;
+                  
+                  
+                  background-color: #25D366;
+                  
+                  
+                  color: white;
+                  
+                  
+                  text-align: center;
+                  
+                  
+                  text-decoration: none;
+                  
+                  
+                  border-radius: 5px;
+                  
+                  
+                  font-size: 16px;
+                  
+                  
+                  position: fixed;
+                  
+                  
+                  bottom: 80px;
+                  
+                  
+                  left: 50%;
+                  
+                  
+                  transform: translateX(-50%);
+                  
+                  
+                  cursor: pointer; }
+                
+                  .whatsapp-button:hover {
+
+
+                    background-color: #1E8449;
+                    
+                    
+                    }
+                
+                
+       
     
     
